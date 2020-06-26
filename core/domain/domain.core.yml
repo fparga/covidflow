@@ -10,8 +10,6 @@ intents:
   - tested_positive
   - ask_question
   - inform
-  - less
-  - more
   - help_preconditions:
       triggers: action_explain_preconditions
   - done
